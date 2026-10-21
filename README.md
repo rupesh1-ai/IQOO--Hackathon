@@ -1,7 +1,3 @@
-Here is a professional and engaging `README.md` tailored for your [iQOO Hackathon](https://github.com/rupesh1-ai/IQOO--Hackathon) repository. You can copy this directly to add to your project!
-
----
-
 # iQOO Hackathon Project
 
 A modern, responsive, and innovative web application developed for the **iQOO Hackathon**. This project is designed to deliver an interactive user interface (UI) and an engaging user experience (UX) tailored to solve the hackathon's core challenge.
